@@ -18,7 +18,8 @@ Achieved ~90% accuracy with Linear Regression model
 Visualized pricing trends in Power BI dashboards
 
 ## 📁 Files
-- `Predicting Automobile Prices Using Neural Networks.R` — main R script
-- `Predicting Automobile Prices Using Neural Networks.docx` — full project report
-- `Predicting Automobile Prices Using Neural Networks - Power BI.pdf` — Power BI dashboard
-- `Predicting Automobile Prices Using Neural Networks.pptx` — PowerPoint presentation
+- `Predicting Automobile Prices R File.R` — R script with all 3 models
+- `Predicting Automobile Prices Final Report.docx` — Full project report
+- `Predicting Automobile Prices Power BI.docx` — Power BI Dashboard Link
+- `Predicting Automobile Prices Power BI.pdf` — Dashboard export
+- `Predicting Automobile Prices PowerPoint.pptx` — project presentation
